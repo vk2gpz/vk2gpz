@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">
   <a href="https://vk2gpz.freshdesk.com" alt="Freshdesk">
-    <img src="https://img.shields.io/badge/Freshdesk-vk2gpz's%20official%20support-green>
+    <img src="https://img.shields.io/badge/"Freshdesk-vk2gpz's official support-green">
   </a>
   <a href="https://discord.gg/7KyDzjP" alt="Discord">
       <img src="https://img.shields.io/discord/452518336627081236?label=discord&style=for-the-badge&color=blue"/>
