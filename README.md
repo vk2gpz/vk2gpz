@@ -23,11 +23,12 @@ Here are some ideas to get you started:
 </h3>
 
 <hr>
-
+<!--
 <h2 align="center">
   <a href="https://github.com/vk2gpz">
     <img align="center" src="https://github-readme-stats.vercel.app/api/?username=vk2gpz&show_icons=true&title_color=fff&icon_color=428af5&text_color=9f9f9f&bg_color=151515">
   </a>
   <br>
 </h2>
+-->
 
