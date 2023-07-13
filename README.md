@@ -19,9 +19,7 @@ Here are some ideas to get you started:
   <a href="https://polymart.org/team/teamvk.4" alt="Minecraft Plugins">
     <img src="https://img.shields.io/badge/Minecraft-Plugins-important&?style=for-the-badge&color=important">
   </a>
-  <a href="https://vk2gpz.freshdesk.com" alt="Freshdesk">
-    <img src="https://img.shields.io/badge/Freshdesk-vk2gpz's official support-green&?style=for-the-badge">
-  </a>
+
   <a href="https://discord.gg/7KyDzjP" alt="Discord">
       <img src="https://img.shields.io/discord/452518336627081236?label=discord&style=for-the-badge&color=blue"/>
   </a>
